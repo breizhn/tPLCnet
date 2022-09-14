@@ -10,7 +10,7 @@
 
 
 <img src="figures/concealed_54.png" alt="Concealed spectrogram 54.wav">
-<audio src="audio_samples/concealed/54.wav" controls preload></audio>
+<audio src="audio_samples/improved/54.wav" controls preload></audio>
 
 
 <img src="figures/clean_54.png" alt="Clean spectrogram 54.wav">
