@@ -1,7 +1,7 @@
 # tPLCnet: Real-time Deep Packet Loss Concealment in the Time Domain Using a Short Temporal Context
 
 
-## Audiosamples:
+## Audio Samples:
  If you are looking at the README.md directly on GitHub, go this [webpage](https://breizhn.github.io/tPLCnet/) to listen to the audio samples.
 
 ---
