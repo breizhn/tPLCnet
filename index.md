@@ -1,9 +1,11 @@
 # tPLCnet: Real-time Deep Packet Loss Concealment in the Time Domain Using a Short Temporal Context
 
 
-## Audiosamples:
+## Paper Preprint:
+The paper can be found on arXiv [here](https://arxiv.org/abs/2204.01300).
 
----
+## Audio Samples:
+
 
 ### 4607.wav
 <img src="figures/corrupted_4607.png" alt="Corrupted spectrogram 4607.wav">
@@ -48,4 +50,5 @@
 ---
 ## Video Presentation:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/phJAUK3QxOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
