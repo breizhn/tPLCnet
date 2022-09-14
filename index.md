@@ -12,8 +12,10 @@ The paper can be found on arXiv [here](https://arxiv.org/abs/2204.01300).
 <audio src="audio_samples/corrupted/4607.wav" controls preload></audio>
 
 
+
 <img src="figures/concealed_4607.png" alt="Concealed spectrogram 4607.wav">
 <audio src="audio_samples/improved/4607.wav" controls preload></audio>
+
 
 
 <img src="figures/clean_4607.png" alt="Clean spectrogram 4607.wav">
@@ -26,8 +28,10 @@ The paper can be found on arXiv [here](https://arxiv.org/abs/2204.01300).
 <audio src="audio_samples/corrupted/2307.wav" controls preload></audio>
 
 
+
 <img src="figures/concealed_2307.png" alt="Concealed spectrogram 2307.wav">
 <audio src="audio_samples/improved/2307.wav" controls preload></audio>
+
 
 
 <img src="figures/clean_2307.png" alt="Clean spectrogram 2307.wav">
@@ -40,8 +44,10 @@ The paper can be found on arXiv [here](https://arxiv.org/abs/2204.01300).
 <audio src="audio_samples/corrupted/54.wav" controls preload></audio>
 
 
+
 <img src="figures/concealed_54.png" alt="Concealed spectrogram 54.wav">
 <audio src="audio_samples/improved/54.wav" controls preload></audio>
+
 
 
 <img src="figures/clean_54.png" alt="Clean spectrogram 54.wav">
