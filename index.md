@@ -2,7 +2,6 @@
 
 
 ## Audiosamples:
- If you are looking at the README.md directly on GitHub, go this [webpage](https://breizhn.github.io/tPLCnet/) to listen to the audio samples.
 
 ---
 
