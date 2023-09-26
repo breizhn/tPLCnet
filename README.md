@@ -1,5 +1,19 @@
 # tPLCnet: Real-time Deep Packet Loss Concealment in the Time Domain Using a Short Temporal Context
 
+## Interspeech Paper:
+The paper can be found [here](https://www.isca-speech.org/archive/pdfs/interspeech_2022/westhausen22_interspeech.pdf).
+
+When using the models please cite:
+```bibtex
+@inproceedings{westhausen22_interspeech,
+  author={Nils L. Westhausen and Bernd T. Meyer},
+  title={{tPLCnet: Real-time Deep Packet Loss Concealment in the Time Domain Using a Short Temporal Context}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={2903--2907},
+  doi={10.21437/Interspeech.2022-10157}
+}
+```
 
 ## Audio Samples:
  If you are looking at the README.md directly on GitHub, go this [webpage](https://breizhn.github.io/tPLCnet/) to listen to the audio samples.
